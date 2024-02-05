@@ -1,0 +1,6 @@
+serhat ece: 100,90,95
+deniz acar: 75,96,45
+omer yaman: 75,95,50
+selim alçı: 96,75,80
+ahmet okuyan: 96,74,100
+aslan aga: 96,74,52

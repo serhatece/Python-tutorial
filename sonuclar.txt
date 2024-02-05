@@ -1,0 +1,6 @@
+serhat ece: AA
+deniz acar: CC
+omer yaman: CC
+selim alçı: BB
+ahmet okuyan: AA
+aslan aga: CC
