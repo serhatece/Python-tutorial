@@ -48,8 +48,3 @@ sonuc = os.path.exists("_os.py") # Dosya'nın olup olmadıgını kontrol eder ve
 
 
 print(sonuc)
-
-
-
-
-
